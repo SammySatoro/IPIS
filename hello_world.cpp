@@ -1,9 +1,8 @@
 ﻿#include <iostream>
-// comment 11
+// comment 1 changed
 int main()
 {
-
-	// comment 22
+	// comment 2 changed
 	std::string name;
 	std::cout << "Please enter your name: ";
 	std::cin >> name;
